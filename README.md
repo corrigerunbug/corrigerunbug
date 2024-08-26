@@ -33,5 +33,6 @@ Salut ! Je suis Ilias, un développeur freelance spécialisé dans la correction
 - **Email** : [bug@corrigerunbug.com](mailto:bug@corrigerunbug.com)
 - **LinkedIn** : [linkedin.com/company/corriger-un-bug/](https://www.linkedin.com/company/corriger-un-bug/)
 - **Site Web** : [corrigerunbug.com](http://corrigerunbug.com)
+- **Expert Prestashop** : [experts.prestashop.com/english/experts/partner/2309536/corrigerunbug](https://experts.prestashop.com/english/experts/partner/2309536/corrigerunbug)
 
 Je suis toujours à la recherche de nouveaux défis, alors n'hésitez pas à me contacter pour discuter de vos projets !
