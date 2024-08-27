@@ -1,4 +1,4 @@
-# 💻 À propos de moi
+# 💻 Correction de bugs, maintenance corrective et évolutive sur PrestaShop
 
 Salut ! Je suis Ilias, un développeur freelance spécialisé dans la correction de bugs sur PrestaShop. Avec 10 années d'expérience, j'ai aidé de nombreuses boutiques en ligne à résoudre des problèmes techniques, à améliorer leurs performances, et à garantir une expérience utilisateur fluide.
 
